@@ -1,4 +1,4 @@
-## Hi👋　I'm Haru🎉🎉
+## Hi👋　I'm Haru🐼
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=haru-24&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
